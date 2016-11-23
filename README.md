@@ -20,7 +20,7 @@ Angular Phonecat Demo porting for ng-mobile-menu (https://github.com/ShoppinPal/
 - http://karma-runner.github.io/
 
 ### Jasmine
-- http://pivotal.github.io/jasmine/
+- https://jasmine.github.io/
 
 
 ## Libraries
